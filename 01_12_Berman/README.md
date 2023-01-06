@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf> Nature, Neighborhoods, Networks and Neurons: the Relationships Between Brain Functioning and the Environment </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf> Nature, Neighborhoods, Networks and Neurons: the Relationships Between Brain Functioning and the Environment </a>
 </h2>
 
 <br>
