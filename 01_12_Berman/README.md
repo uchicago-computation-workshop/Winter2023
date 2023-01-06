@@ -57,9 +57,9 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) Effects of Racial Segregation on Economic Productivity in U.S. Cities](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf)
-- [(optional) Evidence and theory for lower rates of depression in larger US urban areas](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_PNAS_2021.pdf)
-- [(optional) The promise of environmental neuroscience](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Berman_et_al-2019-Nature_Human_Behaviour.pdf)
+- [(required) Effects of Racial Segregation on Economic Productivity in U.S. Cities](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf)
+- [(optional) Evidence and theory for lower rates of depression in larger US urban areas](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Stier_etal_PNAS_2021.pdf)
+- [(optional) The promise of environmental neuroscience](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Berman_et_al-2019-Nature_Human_Behaviour.pdf)
 <br>
 
 <br><br>
@@ -68,4 +68,4 @@ This week's suggested readings:
 
 <p class=footertext> The 2022-2023 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2022/issues/10>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2022>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2023/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2022>workshop's public repository on GitHub.</a></p>
