@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf> The Pointillistic City: Well-Being and Equity in Communities and their Places </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_02_O'brien/O'Brien%20%26%20Ciomek%20(Online%20First)%20Whence%20the%20action%20the%20persistence%20and%20aggravation%20of%20violent%20crime%20(1).pdf> The Pointillistic City: Well-Being and Equity in Communities and their Places </a>
 </h2>
 
 <br>
@@ -57,7 +57,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) Whence the Action? the Persistence and Aggravation of Violent Crime at Addresses, Streets, and Neighborhoods](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf)
+- [(required) Whence the Action? the Persistence and Aggravation of Violent Crime at Addresses, Streets, and Neighborhoods](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_02_O'brien/O'Brien%20%26%20Ciomek%20(Online%20First)%20Whence%20the%20action%20the%20persistence%20and%20aggravation%20of%20violent%20crime%20(1).pdf)
 <br>
 
 <br><br>
