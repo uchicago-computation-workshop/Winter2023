@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_02_O'brien/O'Brien%20%26%20Ciomek%20(Online%20First)%20Whence%20the%20action%20the%20persistence%20and%20aggravation%20of%20violent%20crime%20(1).pdf> Causes and consequences of coalitional cognition </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_09_Mina%20Cikara/2018%20-%20Lau%20et%20al.%20JEPG.pdf> Causes and consequences of coalitional cognition </a>
 </h2>
 
 <br>
@@ -57,7 +57,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [(required) Whence the Action? the Persistence and Aggravation of Violent Crime at Addresses, Streets, and Neighborhoods](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_02_O'brien/O'Brien%20%26%20Ciomek%20(Online%20First)%20Whence%20the%20action%20the%20persistence%20and%20aggravation%20of%20violent%20crime%20(1).pdf)
+- [(required) Discovering Social Groups via Latent Structure Learning](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_09_Mina%20Cikara/2018%20-%20Lau%20et%20al.%20JEPG.pdf)
 <br>
 
 <br><br>
@@ -66,4 +66,4 @@ This week's suggested readings:
 
 <p class=footertext> The 2022-2023 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2023/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2023>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2023/issues/3>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2023>workshop's public repository on GitHub.</a></p>
