@@ -58,7 +58,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 This week's suggested readings:
 
 - [(required) Extended abstract - Public apologies - for CSS](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%2C%20Banerjee%2C%20Wu%20-%20Extended%20abstract%20-%20Public%20apologies%20-%20for%20CSS.docx)
-- [(optional)](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%20%26%20Burdea%20-%20The%20Risk%20of%20Apologizing%20First.pdf)
+- [(optional) The Risk of Apologizing First](https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%20%26%20Burdea%20-%20The%20Risk%20of%20Apologizing%20First.pdf)
 <br>
 
 <br><br>
