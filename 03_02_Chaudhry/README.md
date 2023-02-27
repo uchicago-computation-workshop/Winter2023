@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/02_09_Mina%20Cikara/2018%20-%20Lau%20et%20al.%20JEPG.pdf> Making amends with the audience: Manager use of public apologies and other amends-making strategies </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2023/blob/main/03_02_Chaudhry/Chaudhry%2C%20Banerjee%2C%20Wu%20-%20Extended%20abstract%20-%20Public%20apologies%20-%20for%20CSS.docx> Making amends with the audience: Manager use of public apologies and other amends-making strategies </a>
 </h2>
 
 <br>
